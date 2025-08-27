@@ -1,0 +1,11 @@
+{
+  "name": "taixiu-sieu-vip-api",
+  "version": "1.0.0",
+  "description": "API trung gian dự đoán Tài/Xỉu siêu VIP (pattern + n-gram Mau_cau + ensemble)",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}
